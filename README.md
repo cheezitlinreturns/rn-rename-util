@@ -3,6 +3,10 @@
 `Rn` is a rename utility i made because rename just wouldnt work. its very minimalistic, because i never really though of any flags other then -o. its both a batch and singular rename utility. i dont know if this supports other OSes other then linux.
 # INSTALLATION
 It's pretty simple. you just run:
+```
+cargo install rntl
+```
+or, if you want to compile it (or if cargo wont instal):
 ```bash
 git clone https://github.com/cheezitlinreturns/rn-rename-util.git
 ```
